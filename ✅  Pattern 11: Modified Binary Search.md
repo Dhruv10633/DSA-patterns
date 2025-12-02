@@ -415,6 +415,8 @@ searchMinDiffElement([4, 6, 10], 17);
 - Since, we are reducing the search range by half at every step, this means the time complexity of our algorithm will be `O(logN)` where `N` is the total elements in the given array.
 - The algorithm runs in constant space `O(1)`.
 ## Bitonic Array Maximum (easy)
+https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+
 > Find the maximum value in a given Bitonic array. An array is considered bitonic if it is monotonically increasing and then monotonically decreasing. Monotonically increasing or decreasing means that for any index `i` in the `array arr[i] != arr[i+1]`.
 
 A <b>bitonic array</b> is a sorted array; the only difference is that its first part is sorted in <i>ascending order</i> and the second part is sorted in <i>descending order</i>. We can use a similar approach as discussed in <b>Order-agnostic Binary Search</b>. Since no two consecutive numbers are same (as the array is monotonically increasing or decreasing), whenever we calculate the `middle`, we can compare the numbers pointed out by the index `middle` and `middle+1` to find if we are in the ascending or the descending part. So:
