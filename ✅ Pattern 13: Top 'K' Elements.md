@@ -685,6 +685,8 @@ console.log(`Rearranged string: ${rearrangeString("aapa")}`);
 
 https://leetcode.com/problems/rearrange-string-k-distance-apart/
 
+https://www.naukri.com/code360/problems/ninja-favourite-string_1460386
+
 > Given a string and a number `K`, find if the string can be rearranged such that the same characters are at least `K` distance apart from each other.
 
 ```js
