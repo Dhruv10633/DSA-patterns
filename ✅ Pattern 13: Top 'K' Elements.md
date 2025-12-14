@@ -203,6 +203,8 @@ console.log(
 
 https://leetcode.com/problems/minimum-cost-to-connect-sticks/
 
+https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
+
 > Given `N` ropes with different lengths, we need to connect these ropes into one big rope with minimum cost. The cost of connecting two ropes is equal to the sum of their lengths.
 
 ```js
