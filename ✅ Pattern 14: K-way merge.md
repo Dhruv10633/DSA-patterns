@@ -591,7 +591,7 @@ console.log(
 
 ## 💫 Kth Smallest Number (hard)
 
-https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1
 
 > Given an unsorted array of numbers, find `Kth` smallest number in it.
 
