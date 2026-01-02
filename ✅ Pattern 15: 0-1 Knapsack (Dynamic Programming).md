@@ -3868,7 +3868,7 @@ console.log('Length of LPS: ---> ' + findCPS('pqr'));
 
 ## 🔎 Minimum Deletions in a String to make it a Palindrome
 
-https://www.geeksforgeeks.org/minimum-number-deletions-make-string-palindrome/
+[https://www.geeksforgeeks.org/minimum-number-deletions-make-string-palindrome/](https://www.geeksforgeeks.org/problems/minimum-deletitions1648/1)
 
 > Given a string, find the minimum number of characters that we can remove to make it a <i>palindrome</i>.
 
